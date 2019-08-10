@@ -6,7 +6,7 @@ Testing new line with "\<\/br\>" </br>
 <ul>
 <li>List method from Stack Overflow Suggestion</li>
 <li>Apples</li>
-<li>Pears<li/>
-<li>Grapes
+<li>Pears</li>
+<li>Grapes</li>
 </ul>
 
